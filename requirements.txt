@@ -1,2 +1,3 @@
 # snowflake python connector
 snowflake-connector-python
+cfi == 1.15.0
